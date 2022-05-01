@@ -1,0 +1,65 @@
+
+body * {
+  font-family: "Roboto", sans-serif;
+ }
+
+.navbar-color{
+    background-color: #28a745;
+}
+.card-body .card-title {
+  margin-bottom: 11px;
+  font-weight: 300;
+  text-align: left;
+}
+
+h5.card-title {
+  color: #212529;
+}
+
+.cuppon-contenedor-precios {
+    display: flex;
+    justify-content: end;
+    align-items: baseline;
+  }
+  .cuppon-contenedor-precios .card-valores-normal {
+    font-size: 16px;
+    color:#707070;
+    font-weight: 300;
+  }
+  .cuppon-contenedor-precios .card-valores-descuento {
+    margin-left: 11px;
+    font-size: 20px;
+    color: #28a745;
+    font-weight: 500;
+    }
+
+    .contenedor-form {
+      background-color: #28a745;
+      text-align: center;
+      padding: 25px 0 15px;
+      min-width: 320px;
+    }
+    
+    .cuppon-form .form-control {
+      margin-bottom: 14px;
+      font-weight: 300;
+      font-size: 16px;
+    }
+    
+    .form-texto {
+      color: #fff;
+      font-size: 21px;
+      font-weight: 500;
+    }
+    
+    button.btn.btn-light.form-button {
+      width: 114px;
+    }
+
+footer{
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+    color: #707070;
+  }
+
